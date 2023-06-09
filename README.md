@@ -7,6 +7,8 @@ macht das grüne Item, dass der Ball ohne abzuprallen durch die Blöcke geht ode
 Ein Unterschied zu den alten Games ist aber, dass nach einer gewissen Zeit, neue Blöcke nachrücken. So hat man gleichzeitig zwei Herausforderungen. Einerseits darf
 der Ball nicht aus dem Spielfeld gelangen, andererseits müssen die Blöcke schnell zerstört werden, da sie sonst zu weit unten sind.
 
+Ich habe nicht das gesamte Unity Projekt auf Github hochgeladen. Nur die C# Skripte der einzelnen Objekte und das fertige Spiel sind heir zu finden.
+
 ## Was habe ich gelernt?
 In diesem Projekt habe ich viel neues über Unity gelernt. Ich habe gelernt, wie man Vektoren in der Programmierung anwendet. Ebenfalls
 habe ich gelernt, wie man Daten lokal auf dem Client mit einer Datei speichert und diese wieder abruft. Ich habe auch gelernt, was Prefabs 
